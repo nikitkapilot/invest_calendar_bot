@@ -5,8 +5,8 @@ from aiogram.filters import Command
 from tinkoff.invest import Client
 
 # === ВСТАВЬТЕ ВАШИ ДАННЫЕ СЮДА ===
-TG_TOKEN = 8656921869:AAEYCTu2-Z0V_yeRarrtSLVPu2z51E69FSY
-T_TOKEN = t.Tw5fPANXuZxDbiP_2Bj-VWP5vlVLd_0okt-DoC8Gf6LD6iLVz-LMm3M0BCizVXTT1gZ0IkOy93PfIb-XTq40JP-CQ 
+TG_TOKEN = "8656921869:AAEYCTu2-Z0V_yeRarrtSLVPu2z51E69FSY"
+T_TOKEN = "t.Tw5fPANXuZxDbiP_2Bj-VWP5vlVLd_0okt-DoC8Gf6LD6iLVz-LMm3M0BCizVXTT1gZ0IkOy93PfIb-XTq40JP-CQ"
 # ================================
 
 bot = Bot(token=TG_TOKEN)
